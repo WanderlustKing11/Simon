@@ -1,4 +1,4 @@
-Landing page game called Simon, remember the colors in sequential order and reach the highest level! Built in JavaScript
+Landing page game called Simon, remember the colors in sequential order and reach the highest level! Built with JavaScript
 
 Rules of the game:
 Watch and listen for the button to generate a signal by flashing and making a sound.
