@@ -1,14 +1,14 @@
-# Simon
-This is another JS/jQuery online course follow-along project.
-Not original, just something to work on so that I can learn.
+Landing page game called Simon, remember the colors in sequential order and reach the highest level! Built in JavaScript
 
 Rules of the game:
-Watch and listen for the generated button to signal by flashing and make a sound.
-Each color button will have their own sound.
-Remember the entire sequence of signals in the correct order and you will level up!
+Watch and listen for the button to generate a signal by flashing and making a sound.
+Each color button will have their own unique sound.
+Remember the entire sequence in the correct order and you will level up!
 If you get it wrong, it's game over =( You will restart at Level 1.
 
-As always, looking foward to coming back to this project and seeing what I can add in the future!
-In the meantime, will keep pushing forward on my online course to acquire new material!
+This project was built with the objective of learning more about JavaScript, and specifically jQuery.
 
-Feel free to explore and have fun.
+As always, looking foward to coming back to this in the future and seeing what else I can add.
+In the meantime, moving forward with more projects.
+
+Feel free to explore, use and have fun.
